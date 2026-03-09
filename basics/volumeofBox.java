@@ -18,7 +18,7 @@ public class volumeofBox {
     public static void main(String args[]) {
         volumeofBox b1 = new volumeofBox(2, 3, 4); // object 1
         volumeofBox b2 = new volumeofBox(5, 6, 7); // object 2
-        b1.volume();
+        b1.volume(); 
         b2.volume();
 
     }
