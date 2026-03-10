@@ -1,4 +1,4 @@
-package basics; //not running
+package basics; //not running 
 
 public class tryinheri {
     int a = 10;
